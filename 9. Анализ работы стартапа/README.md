@@ -10,4 +10,4 @@
 Построить и изучить воронку продаж на основе событий. А также проверить по результатам А/А/В-теста, ухудшает ли смена шрифта приложение.
 
 ## Используемые библиотеки
-_Pandas, Numpy, Datetime, Scipy, Math, Plotly, Matplotlib
+_Pandas, Numpy, Datetime, Scipy, Math, Plotly, Matplotlib_
